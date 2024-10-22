@@ -7,7 +7,8 @@ import junit.framework.TestSuite;
 /**
  * Unit test for simple App.
  */
-public class AppTest 
+public class AppTest
+    @test
     extends TestCase
 {
     /**
@@ -30,7 +31,9 @@ public class AppTest
 
     /**
      * Rigourous Test :-)
+     *
      */
+    sysout
     public void testApp()
     {
         assertTrue( true );
