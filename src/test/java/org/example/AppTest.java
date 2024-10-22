@@ -11,6 +11,7 @@ public class AppTest
     @test
     @sample
 @design
+@design2
     extends TestCase
 {
     /**
